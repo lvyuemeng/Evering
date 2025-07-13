@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Evering</h1>
+<h1 align="center">Evering</h1>
 
 ---
 
